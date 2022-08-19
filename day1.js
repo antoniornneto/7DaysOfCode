@@ -25,7 +25,7 @@ if (COMPARAR O numeroDez e a stringDez) {
 }
 /*/
 
-
+// Resolução
 let numeroUm = 1
 let stringUm = '1'
 let numeroTrinta = 30
@@ -38,16 +38,18 @@ if (numeroUm !== stringUm) {
 } else {
   console.log('As variáveis numeroUm e stringUm não tem o mesmo valor')
 }
+//'As variáveis numeroUm e stringUm tem o mesmo valor, mas tipos diferentes'
 
 if (numeroTrinta !== stringTrinta) {
   console.log('As variáveis numeroTrinta e stringTrinta não tem o mesmo tipo')
 } else {
   console.log('As variáveis numeroTrinta e stringTrinta tem o mesmo valor e mesmo tipo')
 }
-
+//'As variáveis numeroTrinta e stringTrinta não tem o mesmo tipo'
 
 if (numeroDez !== stringDez) {
   console.log('As variáveis numeroDez e stringDez tem o mesmo valor, mas tipos diferentes')
 } else {
   console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
 }
+//'As variáveis numeroDez e stringDez tem o mesmo valor, mas tipos diferentes'
