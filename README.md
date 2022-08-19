@@ -5,4 +5,4 @@
 ![Sem título](https://user-images.githubusercontent.com/109702318/185626171-b2a3c88c-ba41-4007-9b7c-812abeb0a1df.png)
 
 
-Repository created to participated of event #7DaysOfCode by Alura.
+Repository created to participate in event #7DaysOfCode by Alura.
